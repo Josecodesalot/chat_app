@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>435137900319-hd8mqfimt17t7ac7h44dhea6tfj3o839.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.435137900319-hd8mqfimt17t7ac7h44dhea6tfj3o839</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAtRdmI_D3pmTZCOmr5N_k8oYr2THy3Z2c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>435137900319</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>lara.jose.chatapp</string>
+	<key>PROJECT_ID</key>
+	<string>chatapp-87f94</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatapp-87f94.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:435137900319:ios:7ac2afbc835f3763bf4a2a</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatapp-87f94.firebaseio.com</string>
+</dict>
+</plist>

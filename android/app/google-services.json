@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "435137900319",
+    "firebase_url": "https://chatapp-87f94.firebaseio.com",
+    "project_id": "chatapp-87f94",
+    "storage_bucket": "chatapp-87f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435137900319:android:a9a5154be9c028fcbf4a2a",
+        "android_client_info": {
+          "package_name": "lara.jose.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435137900319-vp2cctobb7m7rgiij3vc9sp4597gblri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQu5TRyLFK7Tlfl_3xOv4BXeewv_0WtKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435137900319-vp2cctobb7m7rgiij3vc9sp4597gblri.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "435137900319-hd8mqfimt17t7ac7h44dhea6tfj3o839.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "lara.jose.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
